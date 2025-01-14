@@ -1,2 +1,2 @@
 # RMP_package
-Code package for 3D RMP plasma response modelling in Tokamak (Dev)
+Suite of physics codes to simulate 3D RMP plasma responses in Tokamak (Dev)
