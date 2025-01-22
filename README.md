@@ -1,5 +1,5 @@
 # RMP_package
-Suite of physics codes to simulate 3D RMP plasma responses in next generation tokamaks
+Suite of physics codes to simulate the interaction between 3D RMP plasma responses and fast ions in next generation tokamaks
 
 1. Monte-Carlo simualtion code for collisional particle transport from \
       a. Neutral Beam Injection (NBI) \
