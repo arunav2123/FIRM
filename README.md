@@ -1,6 +1,7 @@
 # RMP_package
 Suite of physics codes to simulate the interaction between 3D RMP plasma responses and fast ions in next generation tokamaks
-![RMP Plasma Combined Geometry](./rmp_plasma_combined_geo.png)                  
+
+<img src="./rmp_plasma_combined_geo.png" alt="RMP Plasma Combined Geometry" width="500">
 
 1. Monte-Carlo simualtion code for collisional particle transport from \
       a. Neutral Beam Injection (NBI) \
