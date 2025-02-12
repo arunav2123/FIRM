@@ -1,5 +1,5 @@
-# RMP_package
-Suite of physics codes to simulate the interaction between 3D RMP plasma responses and fast ions in next generation tokamaks
+# Code to simulate 3D RMP field effects in Tokamaks Fusion Plasmas
+Code suite of physics codes to simulate the interaction between 3D RMP plasma responses and fast ions in next generation tokamaks
 
 <img src="./rmp_plasma_combined_geo.png" alt="RMP Plasma Combined Geometry" width="500">
 
