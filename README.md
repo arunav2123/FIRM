@@ -1,4 +1,4 @@
-# 3DRMP 
+# FIRM - Fast Ion Response to Magnetic Perturbations 
 Code suite of physics codes to simulate the interaction between 3D RMP plasma responses and fast ions in next generation tokamaks
 
 <img src="./rmp_plasma_combined_geo.png" alt="RMP Plasma Combined Geometry" width="500">
