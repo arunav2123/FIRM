@@ -9,9 +9,10 @@ Code suite of physics codes to simulate the interaction between 3D RMP plasma re
     c. DT fusion born energetic particles
 
 3. In-built Resonant Magnetic Perturbation (RMP) Coil Construction (Up-down symmetric) \
-    a.  User-defined parameters-> Phase Perturbations, Coil Engeneering, Inductances, (R,Z) Location \
+    a. User-defined parameters-> Phase Perturbations, Coil Engeneering, Inductances, (R,Z) Location \
     b. Calculates Vaccum Field from Bio-Savart Law \
-    c. Inlcusion of Plasma response to RMP (Devlopin..) 
+    c. Computes Atomic Ionization timescale & slowing down distribution
+    c. Inlcusion of Plasma response to RMP (in progress) 
 
-4. Runaway Electron Mitigation Coil (REMC) (Devlopin..)
+5. Runaway Electron Mitigation Coil (REMC) (Implementation in progress)
     
